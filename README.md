@@ -6,7 +6,7 @@
 `export PATH=$PATH:$GOROOT/bin`  
 `export PATH=$PATH:$GOPATH/bin`  
 `export GOPATH=$HOME/go`  
-`export GO15VENDOREXPERIMENT=1`
+`export GO15VENDOREXPERIMENT=1`  
 `eval "$(goenv init -)"`  
 - go/src内でsource ~/.bashrc
 - go/src内でgit clone  
