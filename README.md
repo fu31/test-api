@@ -9,7 +9,7 @@
 `export GO15VENDOREXPERIMENT=1`
 `eval "$(goenv init -)"`  
 - go/src内でsource ~/.bashrc
-- go/src内でgit clone 
+- go/src内でgit clone  
 `git clone https://github.com/fu31/test-api.git`
 
 bee run
